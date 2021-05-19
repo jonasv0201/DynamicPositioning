@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/dynamic.dir/src/phidget.c.o CMakeFiles/dynamic.dir/src/gnuplot.c.o CMakeFiles/dynamic.dir/src/main.c.o CMakeFiles/dynamic.dir/src/mainSub.c.o  -o dynamic -lphidget22 

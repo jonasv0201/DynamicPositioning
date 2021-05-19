@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jonas/CLionProjects/dynamic/src/gnuplot.c
+main.h
+/home/jonas/CLionProjects/dynamic/src/main.h
+
+/home/jonas/CLionProjects/dynamic/src/main.c
+main.h
+/home/jonas/CLionProjects/dynamic/src/main.h
+
+/home/jonas/CLionProjects/dynamic/src/main.h
+stdio.h
+-
+phidget22.h
+-
+time.h
+-
+unistd.h
+-
+
+/home/jonas/CLionProjects/dynamic/src/mainSub.c
+main.h
+/home/jonas/CLionProjects/dynamic/src/main.h
+
+/home/jonas/CLionProjects/dynamic/src/phidget.c
+main.h
+/home/jonas/CLionProjects/dynamic/src/main.h
+phidgetHelper.c
+/home/jonas/CLionProjects/dynamic/src/phidgetHelper.c
+
+/home/jonas/CLionProjects/dynamic/src/phidgetHelper.c
+main.h
+/home/jonas/CLionProjects/dynamic/src/main.h
+
